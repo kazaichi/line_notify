@@ -10,8 +10,8 @@ ______
 'python3 notify.py' で実行
 
 ## 使用方法  
-'import notify'
-'notify.lineNotify("通知する内容")'
+'''import notify'''  
+'''notify.lineNotify("通知する内容")'''  
 
 ## 本家様
 [LINE](https://notify-bot.line.me/doc/ja/)
